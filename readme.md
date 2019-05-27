@@ -3,5 +3,7 @@
 Пример:
 	ввод: 0.1, 0.2
  	вывод: 0.3
+	
 How to run
+
 Clone this repository and double click index.html.
